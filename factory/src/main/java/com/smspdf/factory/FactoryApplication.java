@@ -10,4 +10,5 @@ public class FactoryApplication {
         SpringApplication.run(FactoryApplication.class, args);
     }
 
+
 }
